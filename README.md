@@ -1,2 +1,2 @@
-# Public-Plugins
+# CSGO Public-Plugins
 Public Plugins
